@@ -1,0 +1,41 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+/*************** Challange Point System.   ***************/
+.woocommerce-message .message-container{
+    padding:8px;
+    background-color:green;
+    border-radius:3px;
+    color: white;
+    font-size:12px;
+}
+
+.title-challange{
+    font-size:16px;
+    font-weight: bold;
+    color: green;
+}
+
+.point-cart-notification{
+    font-size:16px;
+    padding: 5px;
+    color:#FFFFFF;
+    background-color: green;
+}
+
+.coins-warning{
+    color:#f59f00;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

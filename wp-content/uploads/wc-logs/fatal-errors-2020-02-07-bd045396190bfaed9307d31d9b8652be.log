@@ -1,0 +1,14 @@
+2020-02-07T02:32:37+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-07T02:33:01+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-07T02:34:46+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-07T03:15:45+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-07T03:27:00+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-07T03:47:24+00:00 CRITICAL syntax error, unexpected end of file in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\crud-form.php on line 114
+
+2020-02-07T03:50:02+00:00 CRITICAL syntax error, unexpected end of file in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\crud-form.php on line 115
+

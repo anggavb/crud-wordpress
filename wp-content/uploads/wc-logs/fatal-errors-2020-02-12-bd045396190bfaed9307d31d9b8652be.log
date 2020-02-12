@@ -1,0 +1,98 @@
+2020-02-12T03:31:20+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T03:33:01+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T04:11:17+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(8): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(8): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:11:28+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(8): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:11:35+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(8): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:11:59+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(8): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:12:24+00:00 CRITICAL syntax error, unexpected end of file in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php on line 115
+
+2020-02-12T04:12:59+00:00 CRITICAL syntax error, unexpected end of file in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php on line 115
+
+2020-02-12T04:13:44+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php:2
+Stack trace:
+#0 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(722): require_once()
+#1 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\template.php(671): load_template('C:\\DEVELOPMENT\\...', true)
+#2 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\custom\vendor.php(6): get_header()
+#4 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php(13): require('C:\\DEVELOPMENT\\...')
+#5 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-settings.php(497): include('C:\\DEVELOPMENT\\...')
+#6 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\DEVELOPMENT\\...')
+#7 C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\DEVELOPMENT\\...')
+#8 C:\DEVELOPMENT\xampp\htdocs\ in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome\header.php on line 2
+
+2020-02-12T04:14:12+00:00 CRITICAL require(): Failed opening required 'custom/logo-wp-admin.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\functions.php on line 16
+
+2020-02-12T04:23:22+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T04:37:42+00:00 CRITICAL syntax error, unexpected end of file in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\crud-form.php on line 115
+
+2020-02-12T09:25:51+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T09:27:20+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T09:33:04+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T13:35:19+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T13:44:00+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-12T13:44:21+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+

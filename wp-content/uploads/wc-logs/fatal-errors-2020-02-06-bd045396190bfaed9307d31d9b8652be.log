@@ -1,0 +1,6 @@
+2020-02-06T10:29:39+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-06T10:38:37+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
+2020-02-06T11:03:01+00:00 CRITICAL require(): Failed opening required 'http://localhost/wordpress/wp-content/themes/flatsome-child/rewardsystem/core/core-rewards.php' (include_path='C:\DEVELOPMENT\xampp\php\PEAR') in C:\DEVELOPMENT\xampp\htdocs\wordpress\wp-content\themes\flatsome-child\woocommerce\myaccount\dashboard-links.php on line 2
+
